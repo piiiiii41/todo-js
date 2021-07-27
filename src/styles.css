@@ -24,9 +24,13 @@ button {
 }
 
 button.hover {
-  background-color: #ff7ffff;
+  background-color: #ff7fff;
   color: #fff;
   cursor: pointer;
+}
+
+li {
+  margin-right: 8px;
 }
 
 .imcomplete-area {
@@ -56,5 +60,5 @@ button.hover {
 .list-row {
   display: flex;
   align-items: center;
-  padding-bottom: top;
+  padding-bottom: 8px;
 }
